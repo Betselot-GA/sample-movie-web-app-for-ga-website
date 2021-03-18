@@ -1,0 +1,4 @@
+{"message":"hello","level":"info"}
+{"message":"hello","level":"info"}
+{"message":"hello","level":"info"}
+{"message":"\u001b[0mGET /auth/login \u001b[36m304\u001b[0m 9.921 ms - -\u001b[0m\n","level":"info"}
