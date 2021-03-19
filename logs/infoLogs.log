@@ -2,3 +2,46 @@
 {"message":"hello","level":"info"}
 {"message":"hello","level":"info"}
 {"message":"\u001b[0mGET /auth/login \u001b[36m304\u001b[0m 9.921 ms - -\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /movies/1 \u001b[32m200\u001b[0m 41.749 ms - 18\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /movies/1 \u001b[31m500\u001b[0m 29.291 ms - 1379\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /movies/1 \u001b[32m200\u001b[0m 2105.627 ms - 12474\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /movies/2 \u001b[32m200\u001b[0m 1788.294 ms - 13664\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /movies/5078 \u001b[32m200\u001b[0m 2211.019 ms - 2\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /movies/1 \u001b[36m304\u001b[0m 2863.156 ms - -\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /movies/573a1390f29313caabcd4135 \u001b[32m200\u001b[0m 2044.771 ms - 16609\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /movies/573a1398f29313caabcebd8d \u001b[32m200\u001b[0m 2350.308 ms - 16609\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /movie/573a1398f29313caabcebd8d \u001b[33m404\u001b[0m 3.117 ms - 169\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /movie/573a1398f29313caabcebd8d \u001b[32m200\u001b[0m 2817.517 ms - 1490\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /movie/573a1398f29313caabcebd8d \u001b[36m304\u001b[0m 2245.441 ms - -\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /movie/123 \u001b[33m400\u001b[0m 1.610 ms - 11\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /movie/573a1398f29313caabcebd8d \u001b[36m304\u001b[0m 3222.209 ms - -\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /comments \u001b[31m500\u001b[0m 4.231 ms - 1334\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /comments \u001b[31m500\u001b[0m 6.062 ms - 1335\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /comments \u001b[31m500\u001b[0m 1.018 ms - 1335\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /comments \u001b[31m500\u001b[0m 5.444 ms - 1341\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /comments \u001b[31m500\u001b[0m 1.541 ms - 1341\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /comments \u001b[31m500\u001b[0m 3.709 ms - 1335\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /comments \u001b[31m500\u001b[0m 1.635 ms - 1335\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /comments \u001b[31m500\u001b[0m 1.362 ms - 1335\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /comments \u001b[32m200\u001b[0m 4.643 ms - 9\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /comments \u001b[33m404\u001b[0m 3.208 ms - 9\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /comments \u001b[33m404\u001b[0m 1.044 ms - 9\u001b[0m\n","level":"info"}
+{"message":"Not Found","level":"error"}
+{"message":"\u001b[0mGET /comments \u001b[33m404\u001b[0m 5.672 ms - 23\u001b[0m\n","level":"info"}
+{"message":"Bad Request","level":"error"}
+{"message":"\u001b[0mGET /movies/name \u001b[33m400\u001b[0m 5.357 ms - 25\u001b[0m\n","level":"info"}
+{"message":"Not Found","level":"error"}
+{"message":"\u001b[0mGET / \u001b[33m404\u001b[0m 9.792 ms - 23\u001b[0m\n","level":"info"}
+{"message":"Not Found","level":"error"}
+{"message":"\u001b[0mGET /signup \u001b[33m404\u001b[0m 1.137 ms - 23\u001b[0m\n","level":"info"}
+{"message":"Not Found","level":"error"}
+{"message":"\u001b[0mGET /signup \u001b[33m404\u001b[0m 0.613 ms - 23\u001b[0m\n","level":"info"}
+{"message":"Not Found","level":"error"}
+{"message":"\u001b[0mGET /signup \u001b[33m404\u001b[0m 6.859 ms - 23\u001b[0m\n","level":"info"}
+{"message":"Not Found","level":"error"}
+{"message":"\u001b[0mGET /signup \u001b[33m404\u001b[0m 1.480 ms - 23\u001b[0m\n","level":"info"}
+{"message":"Not Found","level":"error"}
+{"message":"\u001b[0mGET /signup \u001b[33m404\u001b[0m 5.881 ms - 23\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /auth/signup \u001b[36m304\u001b[0m 1.323 ms - -\u001b[0m\n","level":"info"}
+{"message":"hello","level":"info"}
+{"message":"\u001b[0mGET /auth/login \u001b[36m304\u001b[0m 0.641 ms - -\u001b[0m\n","level":"info"}
